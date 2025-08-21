@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\blblioteca-pribada\\bibliotecapersonal.consoleapp\\bibliotecapersonal.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|solutionrelative:bibliotecapersonal.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\blblioteca-pribada\\bibliotecapersonal.consoleapp\\bibliotecapersonal.consoleapp\\moduls\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|solutionrelative:bibliotecapersonal.consoleapp\\moduls\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\blblioteca-pribada\\bibliotecapersonal.consoleapp\\bibliotecapersonal.consoleapp\\data\\personallibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|solutionrelative:bibliotecapersonal.consoleapp\\data\\personallibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\blblioteca-pribada\\bibliotecapersonal.consoleapp\\bibliotecapersonal.consoleapp\\moduls\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|solutionrelative:bibliotecapersonal.consoleapp\\moduls\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\blblioteca-pribada\\bibliotecapersonal.consoleapp\\bibliotecapersonal.consoleapp\\moduls\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|solutionrelative:bibliotecapersonal.consoleapp\\moduls\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\blblioteca-pribada\\bibliotecapersonal.consoleapp\\bibliotecapersonal.consoleapp\\moduls\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|solutionrelative:bibliotecapersonal.consoleapp\\moduls\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\blblioteca-pribada\\bibliotecapersonal.consoleapp\\bibliotecapersonal.consoleapp\\moduls\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073E12C5-3BD6-4836-8D0E-A38AA76891BB}|BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp.csproj|solutionrelative:bibliotecapersonal.consoleapp\\moduls\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaPersonal.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "BibliotecaPersonal.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:08:15.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Person.cs",
+              "RelativeDocumentMoniker": "BibliotecaPersonal.ConsoleApp\\Moduls\\Person.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Person.cs",
+              "RelativeToolTip": "BibliotecaPersonal.ConsoleApp\\Moduls\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:49:02.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonalLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Data\\PersonalLibrary.cs",
+              "RelativeDocumentMoniker": "BibliotecaPersonal.ConsoleApp\\Data\\PersonalLibrary.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Data\\PersonalLibrary.cs",
+              "RelativeToolTip": "BibliotecaPersonal.ConsoleApp\\Data\\PersonalLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:19:08.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Loan.cs",
+              "RelativeDocumentMoniker": "BibliotecaPersonal.ConsoleApp\\Moduls\\Loan.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Loan.cs",
+              "RelativeToolTip": "BibliotecaPersonal.ConsoleApp\\Moduls\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:15:09.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Book.cs",
+              "RelativeDocumentMoniker": "BibliotecaPersonal.ConsoleApp\\Moduls\\Book.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Book.cs",
+              "RelativeToolTip": "BibliotecaPersonal.ConsoleApp\\Moduls\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:12:55.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Category.cs",
+              "RelativeDocumentMoniker": "BibliotecaPersonal.ConsoleApp\\Moduls\\Category.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Category.cs",
+              "RelativeToolTip": "BibliotecaPersonal.ConsoleApp\\Moduls\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:10:47.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Author.cs",
+              "RelativeDocumentMoniker": "BibliotecaPersonal.ConsoleApp\\Moduls\\Author.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\Blblioteca-pribada\\BibliotecaPersonal.ConsoleApp\\BibliotecaPersonal.ConsoleApp\\Moduls\\Author.cs",
+              "RelativeToolTip": "BibliotecaPersonal.ConsoleApp\\Moduls\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:08:45.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
